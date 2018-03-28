@@ -23,7 +23,7 @@ The wheel is spin at the click of a buttom and the user also stops the wheel. La
 ![image page2](page-2.jpg)
 ![image main-game](main-game.jpg)
 ![image page-4](page-4.jpg)
-![image priority-matrix](priority-matrix)
+![image priority-matrix](priority-matrix.jpg)
 
 ## Priority Matrix
 
