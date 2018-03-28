@@ -16,9 +16,8 @@ This schedule will be used to keep track of your progress throughout the week an
 
 
 ## Project Description
-
-Us
-
+This game is about creatting a long lasting bong with you dog, by helping your pup reach his maximun happiness. In the landing page you must choose a character and clikc 'petstore' to go to the next page. Where you will be in a petstore where you have to choose a puppie. Each character and puppie has different qualities. Each quality given a value for each character. Each quality is rated from 1-10. For the dogs it is rated -1 to -10. Afetr choosing a character and a puppy the user clicks start game. The pupiess name and a happiness bar appear at the top and a spinning wheel in the middle. 
+The wheel is spin at the click of a buttom and the user also stops the wheel. Landing in a square. Which will have a intruction for example; 'Take your dog out for a walk'. This intruction will contain a value from 1 to 3. This is them multiplied by the character´s quality and then substracted by the dogs needs. Which will add or substract to the gos happiness bar and score. When the dogs happiness bar if full you win and if it reaches zero you loose.
 ## Wireframes
 ![image loading page](loading-page.jpg)
 ![image page2](page-2.jpg)
