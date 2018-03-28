@@ -21,7 +21,10 @@ Us
 
 ## Wireframes
 ![image loading page](loading-page.jpg)
-
+![image page2](page-2.jpg)
+![image main-game](main-game.jpg)
+![image page-4](page-4.jpg)
+![image priority-matrix](priority-matrix)
 
 ## Priority Matrix
 
