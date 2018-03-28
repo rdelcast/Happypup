@@ -17,11 +17,11 @@ This schedule will be used to keep track of your progress throughout the week an
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Us
 
 ## Wireframes
+![image loading page](loading-page.jpg)
 
-Include images of your wireframes. 
 
 ## Priority Matrix
 
