@@ -1,0 +1,19 @@
+body{
+background-color: rgb(210, 129, 8);
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+  font-family: Luminari, fantasy;
+}
+.instructions{
+  font-size:18px;
+  text-align: left;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  border: solid;
+  padding: 10px;
+  margin: 10px;
+}
+h2{
+  margin: 50px;
+}
