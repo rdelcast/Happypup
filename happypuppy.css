@@ -2,18 +2,64 @@ body{
 background-color: rgb(210, 129, 8);
 }
 h1{
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
   font-family: Luminari, fantasy;
 }
 .instructions{
-  font-size:18px;
+  font-size:20px;
   text-align: left;
   font-family: New Century Schoolbook, TeX Gyre Schola, serif;
   border: solid;
   padding: 10px;
   margin: 10px;
+  margin-right: 850px;
 }
 h2{
   margin: 50px;
+  margin-left: 400px;
 }
+.fin{
+  align-content: center;
+  margin: 25px;
+  text-align: center;
+}
+.imageFootNote{
+  text-align: left;
+  margin: 25px;
+  border: solid;
+  padding: 20px;
+  margin-right: 600px;
+}
+.startButton{
+  align-content: right;
+  float: right;
+}
+.true:hover, .false:hover{
+  cursor: pointer;
+  background-color: red;
+}
+.startGame{
+  float: right;
+  margin: 50px;
+  background-color: rgb(46, 65, 114);
+  color: white;
+  font-size: 20px
+}
+body{
+background-color: rgb(210, 129, 8);
+}
+h1{
+  font-size: 80px;
+  text-align: center;
+  font-family: Luminari, fantasy;
+}
+.game{
+  width: 800px;
+  height: 600px;
+  align-content: center;
+  margin: auto;
+  widht: 50%;
+  text-align: center;
+}
+
